@@ -14,26 +14,9 @@ The dataset was cleaned, merged, and transformed before building an interactive 
 The dataset used in this project was obtained from **Kaggle**.
 
 Dataset source:
+
 Kickstarter Projects Dataset
 https://www.kaggle.com/datasets/kemical/kickstarter-projects
-
-The dataset includes information about crowdfunding campaigns such as:
-
-* Project name
-* Category and main category
-* Funding goal
-* Amount pledged
-* Number of backers
-* Campaign state (successful, failed, canceled, etc.)
-* Launch date and deadline
-* Country and currency
-
-Two CSV files were used:
-
-* `ks-projects-201612.csv`
-* `ks-projects-201801.csv`
-
-These two datasets were combined to create one unified dataset for analysis.
 
 ---
 
@@ -108,18 +91,10 @@ A bar chart showing which countries launch the most Kickstarter campaigns.
 * Power Query
 * DAX
 * Kaggle Dataset
-* GitHub
-
 ---
 
 # 📷 Dashboard Preview
-
-(Add your Power BI dashboard screenshot here)
-
-Example:
-
-![Dashboard](dashboard.png)
-
+![alt text](image.png)
 ---
 
 # 📚 Key Learnings
