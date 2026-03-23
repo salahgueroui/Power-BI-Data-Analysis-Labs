@@ -117,9 +117,7 @@ Through this lab, I practiced:
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](dashboard.png)
-
----
+![alt text](image.png)
 
 ## 📚 Key Learnings
 
