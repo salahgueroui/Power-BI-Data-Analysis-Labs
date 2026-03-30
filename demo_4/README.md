@@ -92,7 +92,7 @@ The relationships between tables were managed manually in Power BI.
 
 ### Data Model Diagram
 
-![Data Model & Relationships](3-images/data_model.png)
+![Data Model & Relationships](![alt text](image.png))
 
 ---
 
@@ -207,13 +207,13 @@ DetailID, OrderID, Category, Subcategory, Product, Sum of OrderQty, Sum of UnitP
 ## 📷 Dashboard Preview
 
 **Sales Page**
-![Sales Dashboard](3-images/image_sales.png)
+![Sales Dashboard](![alt text](image-1.png))
 
 **Orders Page**
-![Orders Detail Page](3-images/image_orders.png)
+![Orders Page](![alt text](image-2.png))
 
 **Order Details Page**
-![Order Details Page](3-images/image_order_details.png)
+![Order Details Page](![alt text](image-3.png))
 
 ---
 
