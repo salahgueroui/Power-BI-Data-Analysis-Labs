@@ -16,9 +16,7 @@ The dashboard enables users to explore sales performance, product categories, te
 
 # 📷 Dashboard Preview
 
-> Replace the image below with your dashboard screenshot.
-
-![Dashboard]demo_5/3-images/Dashboard.jpg
+![Dashboard](images/dashboard.png)
 
 ### Description
 
@@ -223,6 +221,7 @@ During this project I practiced:
 **Salah Gueroui**
 
 Master's Student in Computer Science
+
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star!
