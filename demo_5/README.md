@@ -16,7 +16,7 @@ The dashboard enables users to explore sales performance, product categories, te
 
 # 📷 Dashboard Preview
 
-![Dashboard](3-images/dashboard.jpg)
+![Dashboard](3-images/Dashboard.jpg)
 
 ### Description
 
