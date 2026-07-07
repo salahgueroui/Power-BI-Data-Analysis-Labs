@@ -217,28 +217,12 @@ During this project I practiced:
 
 ---
 
-# 🚀 Future Improvements
-
-- Add date slicers
-- Add drill-through pages
-- Add bookmarks
-- Improve dashboard theme
-- Publish to Power BI Service
-- Add Row-Level Security (RLS)
-
----
 
 # 👨‍💻 Author
 
 **Salah Gueroui**
 
 Master's Student in Computer Science
-
-Specialization: Data Analytics & Business Intelligence
-
-GitHub:
-https://github.com/salahgueroui
-
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star!
