@@ -41,7 +41,9 @@ Users can interact with every visualization through cross-filtering.
 
 # 📷 Interactive Tooltip
 
-![Tooltip](3-images/Tooltip.jpg)
+> Replace with your Tooltip screenshot.
+
+![Tooltip](images/tooltip.png)
 
 ### Description
 
@@ -60,7 +62,9 @@ The tooltip automatically updates according to the selected visual.
 
 # 📷 Orders Timeline
 
-![Orders Timeline](3-images/Orders%20Timeline.jpg)
+> Replace with the Orders by Date screenshot.
+
+![Orders Timeline](images/orders-date.png)
 
 ### Description
 
@@ -107,7 +111,9 @@ Selecting a category filters the entire dashboard.
 
 # 📷 Data Validation
 
-![Validation](3-images/validation.jpg)
+> Replace with your validation page screenshot.
+
+![Validation](images/validation.png)
 
 ### Description
 
@@ -125,7 +131,9 @@ This ensures that every KPI displayed in the dashboard is accurate.
 
 # 📊 Data Model
 
-![Model](3-images/model.jpg)
+> Replace with the model screenshot.
+
+![Model](images/model.png)
 
 ### Description
 
