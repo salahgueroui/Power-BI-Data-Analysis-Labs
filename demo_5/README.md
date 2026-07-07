@@ -16,7 +16,7 @@ The dashboard enables users to explore sales performance, product categories, te
 
 # 📷 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](3-images/dashboard.jpg)
 
 ### Description
 
@@ -41,9 +41,7 @@ Users can interact with every visualization through cross-filtering.
 
 # 📷 Interactive Tooltip
 
-> Replace with your Tooltip screenshot.
-
-![Tooltip](images/tooltip.png)
+![Tooltip](3-images/Tooltip.jpg)
 
 ### Description
 
@@ -62,9 +60,7 @@ The tooltip automatically updates according to the selected visual.
 
 # 📷 Orders Timeline
 
-> Replace with the Orders by Date screenshot.
-
-![Orders Timeline](images/orders-date.png)
+![Orders Timeline](3-images/Orders%20Timeline.jpg)
 
 ### Description
 
@@ -80,10 +76,6 @@ It allows users to:
 
 # 📷 Territory Analysis
 
-> Replace with Territory screenshot.
-
-![Territory](images/territory.png)
-
 ### Description
 
 The Territory chart compares the number of orders across sales regions.
@@ -97,10 +89,6 @@ It helps identify:
 ---
 
 # 📷 Product Category Analysis
-
-> Replace with Treemap screenshot.
-
-![Category](images/category.png)
 
 ### Description
 
@@ -119,9 +107,7 @@ Selecting a category filters the entire dashboard.
 
 # 📷 Data Validation
 
-> Replace with your validation page screenshot.
-
-![Validation](images/validation.png)
+![Validation](3-images/validation.jpg)
 
 ### Description
 
@@ -139,9 +125,7 @@ This ensures that every KPI displayed in the dashboard is accurate.
 
 # 📊 Data Model
 
-> Replace with the model screenshot.
-
-![Model](images/model.png)
+![Model](3-images/model.jpg)
 
 ### Description
 
